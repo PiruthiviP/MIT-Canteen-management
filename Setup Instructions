@@ -1,0 +1,14 @@
+Prerequisites:
+Install QR Code Generator:
+      Install the qrencode package, which is required for generating QR codes for UPI payments.
+Use the following command:
+        sudo apt-get install qrencode
+Project Setup:
+    Place all the project files (e.g., main.c, translation.c, translation.h, payment.h) in the same directory (e.g., my-projects).
+    Open the payment.h file and enter your UPI ID where indicated.
+Compilation:
+          Navigate to the project directory in your terminal.
+  Compile the project using the following command:
+          g++ -std=c++20 main.cpp -lqrencode
+Run the Program:
+          If the compilation is successful, run the program by typing:   ./a.out
