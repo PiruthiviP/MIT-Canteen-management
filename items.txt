@@ -1,0 +1,9 @@
+idli 3 50
+pongal 5 40
+coffee 10 20
+noodles 10 500
+pizza 100 50
+briyani 100 70
+roti 35 40
+chicken_gravy 120 50
+chicken 50 70
